@@ -10,6 +10,6 @@ NLP program for :
 
 Built in Python 3.10
 
-Program made with [GoodVibesMan](https://github.com/GoodVibesMan)
+Program made in collaboration with [GoodVibesMan](https://github.com/GoodVibesMan)
 
 Student Project for [IRIS Robotics](https://www.instagram.com/irisrobotics/?hl=fr)
