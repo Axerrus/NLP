@@ -11,13 +11,11 @@ class Tokenizer:
         self.matrix = []
         self.phrase = []
 
-
     def separate_sentence(self):
         self.phrase = re.split("[.?!]", self.text.lower())
         for sentence in self.phrase:
             if sentence == "":
                 self.phrase.remove(sentence)
-        #print(self.phrase)
 
     def separate(self):
         with open("./stopword.json") as f:
